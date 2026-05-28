@@ -184,6 +184,8 @@ Explored:
 
 ### Conversion Rate by Group
 
+![Conversion Rate by Group](./conversion_rate_by_group.png)
+
 | Group | Conversion Rate |
 |---|---:|
 | Control | 12.03% |
