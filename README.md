@@ -199,6 +199,8 @@ The control group performed slightly better than the treatment group.
 
 ### Landing Page Distribution
 
+![Landing Page Distribution](./landing_page_distribution.png)
+
 | Landing Page | Users |
 |---|---:|
 | New Page | 144,315 |
@@ -209,6 +211,8 @@ The distribution was balanced, indicating the experiment assignment was well dis
 ---
 
 ### Country Distribution
+
+![Country Distribution](./country_distribution.png)
 
 | Country | Users |
 |---|---:|
